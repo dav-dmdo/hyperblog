@@ -39,3 +39,8 @@ body
 {
     font-size: 20px;
 }
+
+#footer {
+    align-items: center;
+    background: gray;
+}
