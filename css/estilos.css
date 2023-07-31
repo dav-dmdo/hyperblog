@@ -42,5 +42,6 @@ body
 
 #footer {
     align-items: center;
-    background: gray;
+    background: rgba(91, 91, 255, 0.336);
+    justify-content: center;
 }
